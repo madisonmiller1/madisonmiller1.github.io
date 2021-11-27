@@ -1,5 +1,5 @@
 ﻿﻿body {
-    background-color: antiquewhite;
+    background-color:antiquewhite;
 }
 
 h1 {
@@ -38,6 +38,5 @@ article {
     font-family: Bahnschrift;
     font-size: 18px;
     border: 2px solid black;
-    text-align: center;
-    padding-top:20px;
+    padding-top:10px;
 }
